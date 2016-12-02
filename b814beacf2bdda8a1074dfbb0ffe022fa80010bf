@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_59cfc77e",
+        "filename": "include/uapi/linux/v4l2-controls.h",
+        "patchSetId": 7
+      },
+      "lineNbr": 1069,
+      "author": {
+        "id": 16071
+      },
+      "writtenOn": "2016-12-02T20:33:24Z",
+      "side": 1,
+      "message": "delete",
+      "range": {
+        "startLine": 1069,
+        "startChar": 36,
+        "endLine": 1069,
+        "endChar": 37
+      },
+      "revId": "b814beacf2bdda8a1074dfbb0ffe022fa80010bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
