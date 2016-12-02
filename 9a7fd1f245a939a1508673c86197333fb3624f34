@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_f1098d31",
+        "filename": "drivers/media/platform/msm/vidc/hfi_packetization.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2047,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-02T17:50:55Z",
+      "side": 1,
+      "message": "You sure ...",
+      "range": {
+        "startLine": 2039,
+        "startChar": 0,
+        "endLine": 2047,
+        "endChar": 12
+      },
+      "revId": "9a7fd1f245a939a1508673c86197333fb3624f34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_5107a11d",
+        "filename": "drivers/media/platform/msm/vidc/hfi_packetization.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2083,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-02T17:50:55Z",
+      "side": 1,
+      "message": "Lol",
+      "range": {
+        "startLine": 2072,
+        "startChar": 0,
+        "endLine": 2083,
+        "endChar": 69
+      },
+      "revId": "9a7fd1f245a939a1508673c86197333fb3624f34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_3104a517",
+        "filename": "drivers/media/platform/msm/vidc/msm_vdec.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-02T17:50:55Z",
+      "side": 1,
+      "message": "Ah",
+      "range": {
+        "startLine": 267,
+        "startChar": 43,
+        "endLine": 272,
+        "endChar": 69
+      },
+      "revId": "9a7fd1f245a939a1508673c86197333fb3624f34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
