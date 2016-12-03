@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_e836b7b4",
+        "filename": "drivers/media/platform/msm/vidc/msm_venc.c",
+        "patchSetId": 15
+      },
+      "lineNbr": 1185,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-12-03T18:13:45Z",
+      "side": 1,
+      "message": "More whitespaces everywhere in this section",
+      "revId": "1196544c9b0f248a807bf39892c4862755a76d17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_886aa37d",
+        "filename": "include/uapi/media/msm_vidc.h",
+        "patchSetId": 15
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-12-03T18:13:45Z",
+      "side": 1,
+      "message": "white space hits again !",
+      "revId": "1196544c9b0f248a807bf39892c4862755a76d17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_e804f7c8",
+        "filename": "include/uapi/media/msm_vidc.h",
+        "patchSetId": 15
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-12-03T18:13:45Z",
+      "side": 1,
+      "message": "And so on and so forth",
+      "revId": "1196544c9b0f248a807bf39892c4862755a76d17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
