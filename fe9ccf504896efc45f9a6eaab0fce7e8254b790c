@@ -65,6 +65,24 @@
     },
     {
       "key": {
+        "uuid": "5f681702_5f27a713",
+        "filename": "drivers/media/platform/msm/vidc/vidc_hfi_helper.h",
+        "patchSetId": 11
+      },
+      "lineNbr": 655,
+      "author": {
+        "id": 16071
+      },
+      "writtenOn": "2016-12-03T10:37:23Z",
+      "side": 1,
+      "message": "I looks smooths my edit",
+      "parentUuid": "5f681702_ff9dd359",
+      "revId": "fe9ccf504896efc45f9a6eaab0fce7e8254b790c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f681702_3f9f4b51",
         "filename": "include/uapi/linux/v4l2-controls.h",
         "patchSetId": 11
