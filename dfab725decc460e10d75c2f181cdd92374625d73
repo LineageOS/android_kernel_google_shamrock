@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_8860e3d0",
+        "filename": "include/uapi/media/msm_vidc.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-03T17:47:36Z",
+      "side": 1,
+      "message": "Whitespace",
+      "range": {
+        "startLine": 122,
+        "startChar": 0,
+        "endLine": 128,
+        "endChar": 1
+      },
+      "revId": "dfab725decc460e10d75c2f181cdd92374625d73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_e89a37c3",
+        "filename": "include/uapi/media/msm_vidc.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-03T17:47:36Z",
+      "side": 1,
+      "message": "Whitespace",
+      "range": {
+        "startLine": 163,
+        "startChar": 0,
+        "endLine": 165,
+        "endChar": 55
+      },
+      "revId": "dfab725decc460e10d75c2f181cdd92374625d73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_c89f7bb2",
+        "filename": "include/uapi/media/msm_vidc.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-03T17:47:36Z",
+      "side": 1,
+      "message": "Whitespace",
+      "range": {
+        "startLine": 172,
+        "startChar": 46,
+        "endLine": 175,
+        "endChar": 51
+      },
+      "revId": "dfab725decc460e10d75c2f181cdd92374625d73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_28a54f05",
+        "filename": "include/uapi/media/msm_vidc.h",
+        "patchSetId": 13
+      },
+      "lineNbr": 276,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-03T17:47:36Z",
+      "side": 1,
+      "message": "Whitespace",
+      "range": {
+        "startLine": 201,
+        "startChar": 0,
+        "endLine": 276,
+        "endChar": 3
+      },
+      "revId": "dfab725decc460e10d75c2f181cdd92374625d73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
