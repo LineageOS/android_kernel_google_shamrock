@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1d315d_7d31ab0a",
+        "filename": "arch/arm/configs/shamrock_defconfig",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-31T19:33:08Z",
+      "side": 1,
+      "message": "Did I say anything like no brand?",
+      "revId": "aa4894b4efafc9ee4707b91722021c8248a535a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
