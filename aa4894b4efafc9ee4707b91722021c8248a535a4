@@ -16,6 +16,24 @@
       "revId": "aa4894b4efafc9ee4707b91722021c8248a535a4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a1a2d67_53a024f4",
+        "filename": "arch/arm/configs/shamrock_defconfig",
+        "patchSetId": 6
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 16071
+      },
+      "writtenOn": "2017-01-01T07:26:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a1d315d_7d31ab0a",
+      "revId": "aa4894b4efafc9ee4707b91722021c8248a535a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
