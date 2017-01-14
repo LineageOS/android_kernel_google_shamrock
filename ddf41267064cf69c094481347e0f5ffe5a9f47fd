@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da3975d1_abe1259c",
+        "filename": "arch/arm/configs/lineageos_shamrock_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-01-14T20:06:11Z",
+      "side": 1,
+      "message": "lineageos",
+      "range": {
+        "startLine": 1,
+        "startChar": 22,
+        "endLine": 1,
+        "endChar": 31
+      },
+      "revId": "ddf41267064cf69c094481347e0f5ffe5a9f47fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
